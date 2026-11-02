@@ -126,5 +126,3 @@ Las 28 pruebas de `PRUEBAS.py` comprueban las operaciones sobre listas, el contr
 ```bash
 python PRUEBAS.py
 ```
-
-Para publicar la entrega deben colocarse el programa, las pruebas, este README y la carpeta IMAGENES directamente en la raíz del repositorio, conservando las rutas de las imágenes y sin añadir una carpeta contenedora adicional.
